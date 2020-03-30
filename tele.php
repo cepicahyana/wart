@@ -1,5 +1,5 @@
 <?php
-$nama = "cepi";
+$nama = "cepicahyana";
 $to = "cahyanacepi@gmail.com";
 $subject = "sub";
 $messages = "halo";
